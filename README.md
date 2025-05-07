@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Developer<br>💡 Writes code, reads docs, drinks coffee<br>🐍 Python & C++ enthusiast<br>📦 Ships features, fixes bugs, repeats<br>☁️ Loves clouds (mostly Azure ones)
+👨‍💻 Senior Software Developer<br>💡 Writes code, reads docs, drinks coffee<br>🐍 Python & C++ enthusiast<br>📦 Ships features, fixes bugs, repeats<br>☁️ Loves clouds (mostly Azure ones)
 
 
 ## 🌐 Socials:
